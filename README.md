@@ -5,7 +5,7 @@ Welcome to my GitHub! I'm a **data analytics enthusiast** and a **dual major in 
 ## What I Do
 - I use **data techniques**, such as machine learning, to answer interesting questions, solve problems, and provide meaningful insights.  
 - I build **tools and visualizations** that transform raw data into actionable insights.  
-- I’ve developed applications for various purposes, including **mobile ITSM apps**, **video game apps**, **apps to help kids with Autism understand speech** and other innovative solutions.
+- I’ve developed applications for various purposes, including **mobile ITSM apps**, **video game apps**, **speech apps** and other innovative solutions.
 
 ## Why Sports Analytics?
 As a lifelong football fan (Go Birds! 🦅), I’ve always been fascinated by the numbers behind the game. Fantasy football first sparked my interest in data analysis, and that passion has since evolved into projects like **predicting NFL outcomes** and exploring the stats that drive success on the field.
